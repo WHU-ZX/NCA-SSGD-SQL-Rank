@@ -1,0 +1,3 @@
+本程序需要在julia v0.6环境中运行
+文件main-ml1m.jl是运行数据集ml1m的
+文件main-foursquare.jl是运行数据集foursquare的
